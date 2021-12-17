@@ -1,0 +1,32 @@
+{
+ "info": {
+  "license_key": "1111-1111-1111-1111",
+  "name": "colin",
+  "email": "colin@colin.com",
+  "first_activated": "2021-08-19T13:12:46",
+  "expires": "2099-12-31T17:59:59",
+  "maintenance_expires": "2099-12-31T17:59:59",
+  "max_engines": 999999,
+  "max_targets": 999999,
+  "product_code": "AOPENT",
+  "bxss_user_id": "009247",
+  "bxss_api_key": "f61f2d2d-c11e-461d-8469-0c4924bdc4a2",
+  "is_offline": false,
+  "is_worker": false
+ },
+ "major_version": 14,
+ "minor_version": 4,
+ "build_number": 210816098,
+ "expired": false,
+ "maintenance_expired": false,
+ "scan": true,
+ "update": true,
+ "access": true,
+ "activation_error": "0",
+ "activated": true,
+ "checksum": "a2535ec9c578f3d949371075ec6a64d0",
+ "grace": -1,
+ "last_reactivated": "2021-08-19T13:12:46",
+ "site_id": "800d36762e90d04e7cd6e42798f7249f",
+ "mac": "A0:70:06:A6:39:23"
+}
